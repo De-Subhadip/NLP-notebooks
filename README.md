@@ -99,7 +99,6 @@ Follow these steps to get started with the notebooks:
 | **Sentiment Analysis**    | Sentiment analysis of Amazon reviews and movie reviews                                         | Hugging Face, KerasNLP |
 | **Text Classification**   | Classify text into predefined categories using transfer learning and fine-tuned models         | Hugging Face, KerasNLP |
 | **Text Summarization**    | Summarize long documents using transformer-based models like BART and T5                      | KerasNLP, Hugging Face |
-| **Named Entity Recognition** | Detect and label entities like names, dates, and organizations in a given text              | KerasNLP, Hugging Face |
 
 ---
 
@@ -107,7 +106,7 @@ Follow these steps to get started with the notebooks:
 
 - **Languages**: Python
 - **Frameworks**: TensorFlow, Keras, KerasNLP, Hugging Face
-- **Libraries**: NumPy, Pandas, NLTK, SpaCy
+- **Libraries**: NumPy, Pandas, Seaborn, Matplotlib
 
 ---
 
