@@ -110,7 +110,7 @@ Follow these steps to get started with the notebooks:
 
 ---
 
-![NLP Model Training](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+![NLP Model Training](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
