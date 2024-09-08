@@ -24,7 +24,7 @@ Leveraging popular frameworks like **TensorFlow**, **Keras**, and **KerasNLP**, 
 
 ---
 
-![NLP Workflow](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![NLP Workflow](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
