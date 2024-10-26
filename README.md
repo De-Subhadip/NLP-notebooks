@@ -121,9 +121,3 @@ Follow these steps to get started with the notebooks:
 - Large language models like **GPT** can now generate human-like text, making them essential for content creation and conversational agents. 💬🤖
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
